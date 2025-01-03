@@ -1,0 +1,11 @@
+{
+  "description": "To create personal dev portfolio",
+  "repo": "https://github.com/infoanil",
+  "owner": {
+    "username": "infoanil",
+    "email": "info.anilchudasama@gmail.com"
+  },
+  "record": {
+    "TXT": ["anil", "chudasama"]
+  }
+}
